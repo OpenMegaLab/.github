@@ -1,3 +1,3 @@
 ### OpenMegaLab
 
-![OpenMegaLab])[/profile/opengen.jpg]_
+![OpenMegaLab](/profile/opengen.jpg)
